@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[juo:home|Door43 (juo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-juo|d43-juo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-juo/archive/master.zip|d43-juo.zip]]
+
+**Recent Changes**
+{{changes>ns = juo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/juo|Ethnologue data]]
+
